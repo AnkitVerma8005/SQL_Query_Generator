@@ -3,12 +3,12 @@ An intelligent SQL query generator powered by Google Gemini LLM, built with Flas
 
 ✨ Features
 
-🤖 AI-Powered Generation — Uses Google Gemini to understand natural language and generate precise SQL queries
-💬 Interactive Frontend — Clean, responsive UI to input prompts and view generated queries
-⚡ Real-time Output — Instant query generation with syntax highlighting
-🗄️ Multi-dialect Support — Generates queries compatible with MySQL, PostgreSQL, SQLite, and more
-📋 Copy to Clipboard — One-click copy for generated queries
-🔁 Query History — View and reuse previously generated queries in the session
+#### 🤖 AI-Powered Generation — Uses Google Gemini to understand natural language and generate precise SQL queries
+#### 💬 Interactive Frontend — Clean, responsive UI to input prompts and view generated queries
+#### ⚡ Real-time Output — Instant query generation with syntax highlighting
+#### 🗄️ Multi-dialect Support — Generates queries compatible with MySQL, PostgreSQL, SQLite, and more
+#### 📋 Copy to Clipboard — One-click copy for generated queries
+#### 🔁 Query History — View and reuse previously generated queries in the session
 
 🛠️ Tech Stack
 
